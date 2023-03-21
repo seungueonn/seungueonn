@@ -48,7 +48,7 @@ cat "experience"
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django Rest Framework-A30000?style=for-the-badge&logo=DjangoRest&logoColor=white"/></a>
 <br>
-=<br>
+
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <br>
