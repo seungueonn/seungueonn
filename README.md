@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
+```shell
 
 
 cd “Soongsil University”
@@ -32,4 +32,4 @@ cat "experience"
 - `2023.03-2023.06` | 한국대학생IT경영학회 큐시즘 27기 개발팀
 - `2023.03-2023.12` | SKT 대학생 테크인플루언서  DEVOCEAN YOUNG 2기
 
-```
+```shell
