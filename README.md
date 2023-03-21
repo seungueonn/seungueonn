@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ```
 
-mkdir “seungyeonnnnnni”
 
 cd “Soongsil University”
 
 cd “Computer Science and Engineering”
+
+mkdir “seungyeonnnnnni”
+
+cat "experience"
 
 - `2021.03-2021.12` | 멋쟁이 사자처럼 숭실대학교 9기
 - `2022.01-2022.12` | 멋쟁이 사자처럼 숭실대학교 10기 대표
