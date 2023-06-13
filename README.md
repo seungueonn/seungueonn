@@ -26,8 +26,9 @@ cd “Soongsil University”
 cd “Computer Science and Engineering”
 
 mkdir “seungyeonnnnnni”
+cd "seungyeonnnnnni"
 
-cat "experience"
+vi "experience"
 
 - [2021.03-2021.12] | "멋쟁이 사자처럼 숭실대학교 9기"
 - [2022.01-2022.12] | "멋쟁이 사자처럼 숭실대학교 10기 대표"
@@ -37,7 +38,7 @@ cat "experience"
 - [2023.04-2023.06] | "삼성증권 23'상반기 디지털/IT 학회연계 프로그램"
 - [2023.05-2024.02] | "AWS Student Club Soongsil 1기"
 
-cat "awards"
+vi "awards"
 
 - [2023.03] | 한국대학생IT경영학회 기업프로젝트 동아ST 대시보드 구현 부문 "최우수상"
 - [2023.03] | 한국대학생IT경영학회 큐커톤 '온길' "최우수상"
