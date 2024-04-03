@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 
 
 cd “Soongsil University”
-
 cd “Computer Science and Engineering”
 
 mkdir “seungyeonnnnnni”
 cd "seungyeonnnnnni"
 
-vi "experience"
+cat "experience"
 
 - [2023.03-2023.12] | "한국대학생IT경영학회 큐시즘 27기 개발팀, 28기 교육기획팀"
 - [2023.05-2024.02] | "AWS Student Club Soongsil 1기"
@@ -35,7 +34,7 @@ vi "experience"
 - [2022.09-2024.02] | "스마일게이트 멤버십 사회참여부문 3기, 4기 리더그룹"
 - [2021.03-2022.12] | "멋쟁이 사자처럼 숭실대학교 9기 개발팀, 10기 대표"
 
-vi "awards"
+cat "awards"
 
 - [2023.08] | 숭실대학교 컴퓨터학부 소프트웨어 공모전 "총장상"
 - [2023.06] | 삼성증권 상반기 디지털/IT 학회연계 프로그램 최종 과제 "우수상"
