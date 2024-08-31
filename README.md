@@ -57,8 +57,14 @@ cat "awards"
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=Github%20Actions&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 
 
+<br><br>
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongsy8928)](https://solved.ac/jeongsy8928/)
+![Most-language](https://github-readme-stats.vercel.app/api/top-langs/?username=seungueonn&layout=compact&theme=dark)
 </div>
