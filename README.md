@@ -6,8 +6,6 @@
 
 cd “Soongsil University”
 cd “Computer Science and Engineering”
-
-mkdir “seungueonn”
 cd "seungueonn"
 
 cat "career"
