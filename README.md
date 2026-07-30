@@ -7,10 +7,13 @@
 cd “Soongsil University”
 cd “Computer Science and Engineering”
 cd "seungueonn"
+ls
+awards career experience
 
 cat "career"
 
-- [2024.03-2025.04] | "헬퍼로보틱스 연구개발팀 백엔드 개발"
+- [2024.03 - 2025.04] | "헬퍼로보틱스 연구개발팀 백엔드 개발"
+- [2026.01 -        ] | "코스콤펀드서비스 솔루션개발부 풀스택 개발"
 
 cat "experience"
 
@@ -23,6 +26,7 @@ cat "experience"
 
 cat "awards"
 
+- [2023.11] | 이화여자대학교 창업탐색 경진대회 "우수상"
 - [2023.08] | 숭실대학교 컴퓨터학부 소프트웨어 공모전 "총장상"
 - [2023.06] | 삼성증권 상반기 디지털/IT 학회연계 프로그램 최종 과제 "우수상"
 - [2023.05] | 한국대학생IT경영학회 밋업데이 'MOING' "대상"
